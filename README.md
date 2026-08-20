@@ -7,4 +7,3 @@
 <p align="center">
   <img src="gif\r.gif" width="1080">
 
-...
